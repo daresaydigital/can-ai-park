@@ -1,4 +1,4 @@
-# can-ai-park
+# Can AI Park?
 The goal of this hack is to use ML to identify if parking spots are free on the Daresay parking by analysing photos taken down on the parking from Daresay HQ in Victoria Tower.
 
 What we need is:
